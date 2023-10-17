@@ -1,0 +1,6 @@
+SELECT first_name, age
+FROM Customers;
+select first_name , last_name
+from Customers;
+select customer_id
+from Customers;
